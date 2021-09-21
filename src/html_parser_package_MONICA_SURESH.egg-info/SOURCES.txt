@@ -1,0 +1,10 @@
+README
+pyproject.toml
+setup.py
+src/html_parser_package/__init__.py
+src/html_parser_package/main.py
+src/html_parser_package_MONICA_SURESH.egg-info/PKG-INFO
+src/html_parser_package_MONICA_SURESH.egg-info/SOURCES.txt
+src/html_parser_package_MONICA_SURESH.egg-info/dependency_links.txt
+src/html_parser_package_MONICA_SURESH.egg-info/requires.txt
+src/html_parser_package_MONICA_SURESH.egg-info/top_level.txt
